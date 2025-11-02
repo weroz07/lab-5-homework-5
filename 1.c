@@ -10,13 +10,13 @@ int main() {
 
     double gr;
 
-    printf("Введите угол в градусах: ");
+    printf("Г‚ГўГҐГ¤ГЁГІГҐ ГіГЈГ®Г« Гў ГЈГ°Г Г¤ГіГ±Г Гµ: ");
     scanf("%lf", &gr);
 
     double rad = gr * M_PI / 180;
     double result = sin(rad);
 
-    printf("sin(%.0f°) = %.6f\n", gr, result);
+    printf("sin(%.0fВ°) = %.6f\n", gr, result);
 
     return 0;
 }
