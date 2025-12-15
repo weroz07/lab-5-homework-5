@@ -41,7 +41,9 @@
 
 ### Блок-схема
 
-<img width="399" height="882" alt="Lab5_dz" src="https://github.com/user-attachments/assets/ffe77eeb-c6b8-4084-bd81-b2bd06c39df7" />
+<img width="221" height="931" alt="Диаграмма без названия drawio" src="https://github.com/user-attachments/assets/056ae5d9-7a65-4c11-944d-f56f69aec810" />
+
+
 
 
 </div>
